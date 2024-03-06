@@ -1668,7 +1668,7 @@ return [
             'precision'           => 0,
             'subunit'             => 1,
             'symbol'              => '₫',
-            'symbol_first'        => true,
+            'symbol_first'        => false,
             'decimal_mark'        => ',',
             'thousands_separator' => '.',
         ],

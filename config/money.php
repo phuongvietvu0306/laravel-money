@@ -1665,7 +1665,7 @@ return [
         'VND' => [
             'name'                => 'Dong',
             'code'                => 704,
-            'precision'           => 0,
+            'precision'           => 3,
             'subunit'             => 1,
             'symbol'              => '₫',
             'symbol_first'        => false,
